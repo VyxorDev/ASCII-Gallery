@@ -57,10 +57,19 @@ From dramatic black-and-white compositions to vivid, full-colour pieces.
 
 ## On display
 
-> **The gallery is being prepared.**  
-> No artworks have been published yet. The first pieces will appear here as image previews when the exhibition opens.
+<div align="center">
 
-The collection will live in two simple spaces:
+### Opening exhibit · Jet Roars Over Empty Beach
+
+**CHROMA / COLOURED ASCII / EXHIBIT 001**
+
+*A jet roaring across a blue-toned shoreline — rendered entirely in characters.*
+
+<sub>Artwork selected · Full-resolution PNG upload pending</sub>
+
+</div>
+
+The gallery uses two curated spaces:
 
 <pre>
 gallery/
@@ -68,7 +77,7 @@ gallery/
 └── colour/         ← coloured ASCII artwork (.png)
 </pre>
 
-<sub>These folders are the planned layout; they will be created with the first artworks.</sub>
+<sub>Folders will appear when their first PNG artwork is committed.</sub>
 
 ## The gallery standard
 
