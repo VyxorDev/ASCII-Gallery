@@ -21,6 +21,10 @@ This registry tracks each exhibit's original source, creator, and permission sta
 | 011 · Gaz | [PNG](./gallery/colour/CallOfDutyGaz.png) | Unknown | Uploaded ASCII-art PNG; original visual reference not provided | Not verified; Call of Duty character/design rights may apply | **Published; source and rights review pending** |
 | 012 · Captain Price | [PNG](./gallery/colour/CallOfDutyPrice.png) | Unknown | Uploaded ASCII-art PNG; original visual reference not provided | Not verified; Call of Duty character/design rights may apply | **Published; source and rights review pending** |
 
+| 013 · Midnight Metropolis | [PNG](./gallery/colour/MidnightMetropolis.png) | Unknown | Uploaded ASCII-art PNG; original visual source not provided | Not verified | **Published; source and rights review pending** |
+| 014 · Amber Dusk | [PNG](./gallery/colour/AmberDusk.png) | Unknown | Uploaded ASCII-art PNG; original visual source not provided | Not verified | **Published; source and rights review pending** |
+| 015 · Emerald Horizon | [PNG](./gallery/colour/EmeraldHorizon.png) | Unknown | Uploaded ASCII-art PNG; original visual source not provided | Not verified | **Published; source and rights review pending** |
+
 ## Pending uploads
 
 - **Ghostwing** — `gallery/colour/Ghostwing.png` was previously listed as exhibit 008 but is not uploaded. Its creator, source and rights remain unverified.

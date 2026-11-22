@@ -69,6 +69,22 @@ Images recreated with text, in colour and monochrome.
       <br><strong>12 — Captain Price</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./gallery/colour/MidnightMetropolis.png"><img src="./gallery/colour/MidnightMetropolis.png" alt="Midnight Metropolis" width="100%"></a>
+      <br><strong>13 — Midnight Metropolis</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="./gallery/colour/AmberDusk.png"><img src="./gallery/colour/AmberDusk.png" alt="Amber Dusk" width="100%"></a>
+      <br><strong>14 — Amber Dusk</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="./gallery/colour/EmeraldHorizon.png"><img src="./gallery/colour/EmeraldHorizon.png" alt="Emerald Horizon" width="75%"></a>
+      <br><strong>15 — Emerald Horizon</strong>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
