@@ -6,8 +6,8 @@
 
 **Characters are the brush. Pixels are the canvas.**
 
-A curated collection of character-built artwork, preserved as crisp PNGs.
-From dramatic black-and-white compositions to vivid, full-colour pieces.
+A curated collection of character-built artwork, preserved as high-resolution PNGs.  
+From dramatic black-and-white compositions to vivid full-colour pieces.
 
 <p>
   <img alt="PNG only" src="https://img.shields.io/badge/FORMAT-PNG_ONLY-101820?style=for-the-badge&labelColor=242424" />
@@ -15,121 +15,132 @@ From dramatic black-and-white compositions to vivid, full-colour pieces.
   <img alt="Curated collection" src="https://img.shields.io/badge/STATUS-CURATED-008D82?style=for-the-badge&labelColor=242424" />
 </p>
 
+<pre>
+╭───────────────────────────────────────────╮
+│                                           │
+│        ◼  N O I R    /    C H R O M A    │
+│                                           │
+│         A R T  I N  C H A R A C T E R S  │
+│                                           │
+╰───────────────────────────────────────────╯
+</pre>
 
 <a href="#collections">COLLECTIONS</a> &nbsp;·&nbsp;
 <a href="#on-display">ON DISPLAY</a> &nbsp;·&nbsp;
-<a href="#the-gallery-standard">THE STANDARD</a> &nbsp;·&nbsp;
-<a href="#license">LICENSE</a>
+<a href="#upcoming">UPCOMING</a> &nbsp;·&nbsp;
+<a href="#source-credits--usage-rights">RIGHTS</a>
 
 </div>
 
 ---
 
+## Collections
 
-### EXHIBIT 001 &nbsp; / &nbsp; JET ROARS OVER EMPTY BEACH
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>01 · ◼ NOIR</h3>
+      <p><strong>The monochrome collection</strong></p>
+      <p>Light, shadow, texture and detail — nothing but characters in black and white.</p>
+      <sub>MONOCHROME / PNG</sub>
+      <p><em>Opening soon</em></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>02 · ✦ CHROMA</h3>
+      <p><strong>The colour collection</strong></p>
+      <p>An expressive world of vibrant colour and intricate text-built imagery.</p>
+      <sub>COLOUR / PNG</sub>
+      <p><strong><a href="./gallery/colour/">Explore the collection</a></strong></p>
+    </td>
+  </tr>
+</table>
 
-<a href="./gallery/colour/JetRoarsOverEmptyBeachASCII.png">
-  <img src="./gallery/colour/JetRoarsOverEmptyBeachASCII.png" alt="Colour ASCII artwork of a jet over a blue-toned beachscape" width="100%" />
+## On display
+
+<div align="center">
+
+<sub>THE PERMANENT COLLECTION · 02 ARTWORKS</sub>
+
+### EXHIBIT 003 / CYBERPUNK CHINESE
+
+<a href="./gallery/colour/CyberpunkChinese.png">
+  <img src="./gallery/colour/CyberpunkChinese.png" alt="Cyberpunk Chinese — brightly coloured ASCII nightscape with neon blue, purple and magenta light" width="100%" />
 </a>
 
-<p><strong>CHROMA &nbsp; · &nbsp; COLOUR ASCII &nbsp; · &nbsp; 001</strong></p>
+**CHROMA · COLOURED ASCII · 003**
 
-<em>A jet roars over an empty shoreline — a cinematic scene painted in luminous blues and intricate characters.</em>
+*A neon-soaked nighttime scene reimagined in fine, luminous characters.*
 
-<p>
-  <a href="./gallery/colour/JetRoarsOverEmptyBeachASCII.png"><strong>View full-resolution artwork</strong></a>
-  &nbsp; · &nbsp;
-  <a href="./gallery/colour/"><strong>Explore CHROMA</strong></a>
-</p>
+<a href="./gallery/colour/CyberpunkChinese.png"><strong>Explore this artwork at full resolution</strong></a>
 
 </div>
 
 ---
 
-<sub><strong>CURRENT EXHIBITION</strong> &nbsp; / &nbsp; 01 artwork on display</sub>
+### Explore the exhibits
 
 <table>
   <tr>
-    <td align="center" width="100%">
+    <td width="50%" align="center" valign="top">
       <a href="./gallery/colour/JetRoarsOverEmptyBeachASCII.png">
-        <img src="./gallery/colour/JetRoarsOverEmptyBeachASCII.png" width="100%" alt="Jet Roars Over Empty Beach — Exhibit 001" />
+        <img src="./gallery/colour/JetRoarsOverEmptyBeachASCII.png" alt="Jet Roars Over Empty Beach — blue-coloured ASCII seascape" width="100%" />
       </a>
       <br />
-      <strong>001 / Jet Roars Over Empty Beach</strong><br />
-      <sub>CHROMA · COLOURED ASCII · PNG</sub>
+      <strong>001 / Jet Roars Over Empty Beach</strong>
+      <br /><sub>CHROMA · COLOURED ASCII</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="./gallery/colour/CyberpunkChinese.png">
+        <img src="./gallery/colour/CyberpunkChinese.png" alt="Cyberpunk Chinese — neon-coloured ASCII scene" width="100%" />
+      </a>
+      <br />
+      <strong>003 / Cyberpunk Chinese</strong>
+      <br /><sub>CHROMA · COLOURED ASCII</sub>
     </td>
   </tr>
 </table>
 
-The collection lives in two curated spaces:
+## Upcoming
 
-<pre>
-gallery/
-├── monochrome/     ← monochrome ASCII artwork (.png; opens with first work)
-└── colour/         ← colour ASCII artwork (.png)
-    └── JetRoarsOverEmptyBeachASCII.png
-</pre>
+**EXHIBIT 002 / NEON KITTY** — A fiery-orange feline portrait shaped from glowing characters on a dark backdrop.
 
-<sub>Monochrome will become a folder when its first piece is published.</sub>
+<sub>CHROMA · COLOURED ASCII · HIGH-RESOLUTION PNG REUPLOAD NEEDED</sub>
 
-## Next in the collection
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>EXHIBIT 002 / NEON KITTY</h3>
-      <p>A fiery-orange feline portrait drawn from glowing character strokes against deep shadow.</p>
-      <p><sub>CHROMA · COLOURED ASCII · PNG UPLOAD PENDING</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>EXHIBIT 003 / CYBERPUNK CHINESE</h3>
-      <p>Electric blue, violet, and neon reflections turn a nocturnal city scene into character art.</p>
-      <p><sub>CHROMA · COLOURED ASCII · PNG UPLOAD PENDING</sub></p>
-    </td>
-  </tr>
-</table>
-
-<sub>Original photo platform reported as <a href="https://unsplash.com/">Unsplash</a> for exhibits 002–003. Individual source pages have not been supplied; see <a href="./SOURCES.md">source rights</a>.</sub>
-
----
+Its prior uploaded file was incomplete, so the piece is not displayed until the actual PNG has been uploaded.
 
 ## The gallery standard
 
-- **Artwork is visual.** Every exhibit is a **PNG image**, not a TXT file or terminal dump.
-- **Two distinct rooms.** Monochrome and colour are showcased separately.
-- **Detail first.** Typography, contrast, composition, and legibility matter.
-- **Clean presentation.** Descriptive filenames, high-resolution exports, and no unnecessary assets in the artwork folders.
-- **Curated, not crowded.** Each addition belongs in the collection.
+- **Visual art only.** Gallery exhibits are rendered **PNG images**, not text files or terminal dumps.
+- **Two curated rooms.** Monochrome and coloured work are kept separate.
+- **Detail first.** Typography, contrast, composition and legibility define the collection.
+- **Full resolution.** Select any preview to open the original uploaded artwork.
+- **Rights-aware curation.** Source information and permissions are recorded where known.
 
 ## Viewing guide
 
-Open any artwork to inspect it at full resolution. For the best experience, use GitHub's full image view, particularly for highly detailed pieces. Artwork is featured above as a full-width preview. Select the image to view it at full resolution.
+Open an exhibit to view its full-resolution image. Intricate ASCII textures are easiest to appreciate when zoomed in.
 
 <details>
 <summary><strong>What is character-built art?</strong></summary>
 
 <br />
 
-ASCII art creates an image through the arrangement of text characters. This collection focuses on **rendered images of that artwork**, so the pieces can be appreciated as graphics without relying on terminal fonts, copy-pasted text, or exact column widths.
+ASCII art creates images through the arrangement of text characters. The gallery exhibits rendered PNGs so that the compositions preserve their proportions and colours without depending on terminal fonts or column widths.
 
 </details>
 
 ## Source credits & usage rights
 
-Some exhibits are rendered from images created by other artists or photographers. **Conversion to ASCII does not automatically make a source image free of copyright.**
+Some exhibits are converted from third-party images. **Converting a photo into ASCII does not automatically remove the source photographer's rights.**
 
-Each exhibit's origin and usage permissions are tracked in the [artwork source & rights registry](./SOURCES.md). The opening exhibit's original source has **not yet been verified**. Attribution, if needed, will be added after its source is identified.
-
-No blanket reuse license applies to third-party source images or conversions. Original works owned by VyxorDev may be explicitly designated **CC BY-NC-ND 4.0**. See [LICENSE](./LICENSE) for the exact scope.
+Exhibits 002 and 003 were reported as sourced from Unsplash; individual photo links and creators have not been verified. Consult [SOURCES.md](./SOURCES.md) for the source register. No blanket license is granted over third-party works. See [LICENSE](./LICENSE).
 
 ---
 
 <div align="center">
 
-<sub>EST. 2026 &nbsp;·&nbsp; CREATED & CURATED BY <a href="https://github.com/VyxorDev">VYXORDEV</a></sub>
+<sub>EST. 2026 · CREATED & CURATED BY <a href="https://github.com/VyxorDev">VYXORDEV</a></sub>
 
-<br />
-
-<strong>Less noise. More art.</strong>
+**Less noise. More art.**
 
 </div>
