@@ -9,7 +9,7 @@ This registry tracks each exhibit's original source, creator, and permission sta
 | Exhibit | Gallery file | Original creator | Original image source | Source license / permission | Review |
 | --- | --- | --- | --- | --- | --- |
 | 001 · Jet Roars Over Empty Beach | [PNG](./gallery/colour/JetRoarsOverEmptyBeachASCII.png) | Not yet provided | Not yet provided | Not yet verified | **Source review pending** |
-| 002 · Neon Kitty | `gallery/colour/NeonKitty.png` (valid PNG reupload needed) | Unknown | [Unsplash](https://unsplash.com/) (reported by uploader; original photo URL unavailable) | Individual photo license unverified | **Not exhibited; incomplete file removed, reupload needed** |
+| 002 · Neon Kitty | [PNG](./gallery/colour/NeonKitty.png) | Unknown | [Unsplash](https://unsplash.com/) (reported by uploader; original photo URL unavailable) | Individual photo license unverified | **Image published; source photo identity and terms unverified** |
 | 003 · Cyberpunk Chinese | [PNG](./gallery/colour/CyberpunkChinese.png) | Unknown | [Unsplash](https://unsplash.com/) (reported by uploader; original photo URL unavailable) | Individual photo license unverified | **Image published; source photo identity and terms unverified** |
 
 ## Unsplash-sourced exhibits
