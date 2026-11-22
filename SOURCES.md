@@ -14,6 +14,7 @@ This registry tracks each exhibit's original source, creator, and permission sta
 | 004 · Buildings | [PNG](./gallery/colour/Buildings.png) | Unknown | Not provided | Not verified | **Image published; original photo rights unverified** |
 | 005 · Alone | [PNG](./gallery/colour/Alone.png) | Unknown | Not provided | Not verified | **Image published; original photo rights unverified** |
 | 006 · Stormwatch | [PNG](./gallery/colour/Stormwatch.png) | Unknown | Not provided | Not verified | **Image published; original source rights unverified** |
+| 007 · Ghostwing | `gallery/colour/Ghostwing.png` (upload pending) | Unknown | Not provided | Not verified | **Upload pending; original source rights unverified** |
 
 ## Unsplash-sourced exhibits
 
