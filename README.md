@@ -25,30 +25,6 @@ From dramatic black-and-white compositions to vivid, full-colour pieces.
 
 ---
 
-## Collections
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>01 &nbsp; ◼ &nbsp; NOIR</h3>
-      <p><strong>The monochrome collection</strong></p>
-      <p>Light, shadow, texture, and detail — nothing but characters in black and white.</p>
-      <p><sub>MONOCHROME &nbsp; / &nbsp; PNG</sub></p>
-      <p><em>First exhibit coming soon</em></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>02 &nbsp; ✦ &nbsp; CHROMA</h3>
-      <p><strong>The colour collection</strong></p>
-      <p>Character art with an entire palette at its disposal. Expressive, vibrant, and intricate.</p>
-      <p><sub>COLOUR &nbsp; / &nbsp; PNG</sub></p>
-      <p><em>First exhibit coming soon</em></p>
-    </td>
-  </tr>
-</table>
-
-## On display
-
-<div align="center">
 
 ### EXHIBIT 001 &nbsp; / &nbsp; JET ROARS OVER EMPTY BEACH
 
