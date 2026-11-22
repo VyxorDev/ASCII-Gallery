@@ -28,9 +28,13 @@ Images recreated with text, in colour and monochrome.
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <a href="./gallery/colour/Alone.png"><img src="./gallery/colour/Alone.png" alt="Alone" width="48%"></a>
+    <td align="center" width="50%">
+      <a href="./gallery/colour/Alone.png"><img src="./gallery/colour/Alone.png" alt="Alone" width="100%"></a>
       <br><strong>05 — Alone</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="./gallery/colour/Stormwatch.png"><img src="./gallery/colour/Stormwatch.png" alt="Stormwatch" width="100%"></a>
+      <br><strong>06 — Stormwatch</strong>
     </td>
   </tr>
 </table>
