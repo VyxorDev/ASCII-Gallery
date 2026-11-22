@@ -72,6 +72,14 @@ gallery/
 
 <sub>Monochrome will become a folder when its first piece is published.</sub>
 
+## Next in the collection
+
+**EXHIBIT 002 · NEON KITTY** — A luminous, fiery-orange feline portrait rendered in coloured ASCII. The full-resolution PNG will appear here once it is uploaded.
+
+<sub>CHROMA · COLOURED ASCII · IMAGE UPLOAD PENDING</sub>
+
+---
+
 ## The gallery standard
 
 - **Artwork is visual.** Every exhibit is a **PNG image**, not a TXT file or terminal dump.
