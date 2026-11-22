@@ -15,15 +15,6 @@ From dramatic black-and-white compositions to vivid, full-colour pieces.
   <img alt="Curated collection" src="https://img.shields.io/badge/STATUS-CURATED-008D82?style=for-the-badge&labelColor=242424" />
 </p>
 
-<pre>
-╭───────────────────────────────────────────╮
-│                                           │
-│        ◼  N O I R    /    C H R O M A    │
-│                                           │
-│         A R T  I N  C H A R A C T E R S  │
-│                                           │
-╰───────────────────────────────────────────╯
-</pre>
 
 <a href="#collections">COLLECTIONS</a> &nbsp;·&nbsp;
 <a href="#on-display">ON DISPLAY</a> &nbsp;·&nbsp;
