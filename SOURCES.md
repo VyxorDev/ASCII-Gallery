@@ -12,6 +12,8 @@ This registry tracks each exhibit's original source, creator, and permission sta
 | 002 · Neon Kitty | [PNG](./gallery/colour/NeonKitty.png) | Unknown | [Unsplash](https://unsplash.com/) (reported by uploader; original photo URL unavailable) | Individual photo license unverified | **Image published; source photo identity and terms unverified** |
 | 003 · Cyberpunk Chinese | [PNG](./gallery/colour/CyberpunkChinese.png) | Unknown | [Unsplash](https://unsplash.com/) (reported by uploader; original photo URL unavailable) | Individual photo license unverified | **Image published; source photo identity and terms unverified** |
 
+| 004 · Buildings | `gallery/colour/Buildings.png` (upload pending) | Unknown | Not provided | Not verified | **Awaiting PNG; original photo rights unverified** |
+
 ## Unsplash-sourced exhibits
 
 The uploader reported that exhibits **002** and **003** were converted from images found on Unsplash. The [standard Unsplash License](https://unsplash.com/license) generally permits downloading, editing, and redistributing free-catalog images without mandatory attribution, subject to its terms. Attribution is encouraged when known.
