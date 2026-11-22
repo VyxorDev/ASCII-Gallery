@@ -37,6 +37,12 @@ Images recreated with text, in colour and monochrome.
       <br><strong>06 — Stormwatch</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="./gallery/colour/BluePhantom.png"><img src="./gallery/colour/BluePhantom.png" alt="Blue Phantom" width="50%"></a>
+      <br><strong>07 — Blue Phantom</strong>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
