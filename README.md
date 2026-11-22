@@ -15,45 +15,14 @@ From dramatic black-and-white compositions to vivid full-colour pieces.
   <img alt="Curated collection" src="https://img.shields.io/badge/STATUS-CURATED-008D82?style=for-the-badge&labelColor=242424" />
 </p>
 
-<pre>
-╭───────────────────────────────────────────╮
-│                                           │
-│        ◼  N O I R    /    C H R O M A    │
-│                                           │
-│         A R T  I N  C H A R A C T E R S  │
-│                                           │
-╰───────────────────────────────────────────╯
-</pre>
 
-<a href="#collections">COLLECTIONS</a> &nbsp;·&nbsp;
+
 <a href="#on-display">ON DISPLAY</a> &nbsp;·&nbsp;
-<a href="#upcoming">UPCOMING</a> &nbsp;·&nbsp;
 <a href="#source-credits--usage-rights">RIGHTS</a>
 
 </div>
 
 ---
-
-## Collections
-
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>01 · ◼ NOIR</h3>
-      <p><strong>The monochrome collection</strong></p>
-      <p>Light, shadow, texture and detail — nothing but characters in black and white.</p>
-      <sub>MONOCHROME / PNG</sub>
-      <p><em>Opening soon</em></p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>02 · ✦ CHROMA</h3>
-      <p><strong>The colour collection</strong></p>
-      <p>An expressive world of vibrant colour and intricate text-built imagery.</p>
-      <sub>COLOUR / PNG</sub>
-      <p><strong><a href="./gallery/colour/">Explore the collection</a></strong></p>
-    </td>
-  </tr>
-</table>
 
 ## On display
 
