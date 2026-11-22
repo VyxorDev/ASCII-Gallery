@@ -28,19 +28,19 @@ From dramatic black-and-white compositions to vivid full-colour pieces.
 
 <div align="center">
 
-<sub>THE PERMANENT COLLECTION · 03 ARTWORKS</sub>
+<sub>THE PERMANENT COLLECTION · 04 ARTWORKS</sub>
 
-### EXHIBIT 003 / CYBERPUNK CHINESE
+### EXHIBIT 004 / BUILDINGS
 
-<a href="./gallery/colour/CyberpunkChinese.png">
-  <img src="./gallery/colour/CyberpunkChinese.png" alt="Cyberpunk Chinese — brightly coloured ASCII nightscape with neon blue, purple and magenta light" width="100%" />
+<a href="./gallery/colour/Buildings.png">
+  <img src="./gallery/colour/Buildings.png" alt="Buildings — detailed blue-toned ASCII architecture with geometric city facades" width="100%" />
 </a>
 
-**CHROMA · COLOURED ASCII · 003**
+**CHROMA · COLOURED ASCII · 004**
 
-*A neon-soaked nighttime scene reimagined in fine, luminous characters.*
+*An architectural cityscape rebuilt from thousands of intricate characters, shifting between electric blues and high-contrast shadows.*
 
-<a href="./gallery/colour/CyberpunkChinese.png"><strong>Explore this artwork at full resolution</strong></a>
+<a href="./gallery/colour/Buildings.png"><strong>View full-resolution artwork</strong></a>
 
 </div>
 
@@ -50,40 +50,42 @@ From dramatic black-and-white compositions to vivid full-colour pieces.
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <a href="./gallery/colour/JetRoarsOverEmptyBeachASCII.png">
-        <img src="./gallery/colour/JetRoarsOverEmptyBeachASCII.png" alt="Jet Roars Over Empty Beach — blue-toned ASCII beach and aircraft scene" width="100%" />
+        <img src="./gallery/colour/JetRoarsOverEmptyBeachASCII.png" alt="Jet Roars Over Empty Beach — blue-toned ASCII seascape" width="100%" />
       </a>
       <br />
       <strong>001 / Jet Roars Over Empty Beach</strong><br />
       <sub>CHROMA · COLOURED ASCII</sub>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="50%" align="center" valign="top">
       <a href="./gallery/colour/NeonKitty.png">
-        <img src="./gallery/colour/NeonKitty.png" alt="Neon Kitty — fiery orange cat portrait constructed from ASCII characters" width="100%" />
+        <img src="./gallery/colour/NeonKitty.png" alt="Neon Kitty — fiery orange feline in glowing ASCII characters" width="100%" />
       </a>
       <br />
       <strong>002 / Neon Kitty</strong><br />
       <sub>CHROMA · COLOURED ASCII</sub>
     </td>
-    <td width="34%" align="center" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
       <a href="./gallery/colour/CyberpunkChinese.png">
-        <img src="./gallery/colour/CyberpunkChinese.png" alt="Cyberpunk Chinese — neon blue, violet, and magenta ASCII artwork" width="100%" />
+        <img src="./gallery/colour/CyberpunkChinese.png" alt="Cyberpunk Chinese — vivid neon ASCII scene" width="100%" />
       </a>
       <br />
       <strong>003 / Cyberpunk Chinese</strong><br />
       <sub>CHROMA · COLOURED ASCII</sub>
     </td>
+    <td width="50%" align="center" valign="top">
+      <a href="./gallery/colour/Buildings.png">
+        <img src="./gallery/colour/Buildings.png" alt="Buildings — cinematic blue-and-black ASCII architecture" width="100%" />
+      </a>
+      <br />
+      <strong>004 / Buildings</strong><br />
+      <sub>CHROMA · COLOURED ASCII</sub>
+    </td>
   </tr>
 </table>
-
-## Next exhibit
-
-**EXHIBIT 004 / BUILDINGS** — A blue-toned, high-contrast architectural cityscape rendered with tightly layered ASCII characters.
-
-<sub>CHROMA · COLOURED ASCII · FULL-RESOLUTION PNG UPLOAD PENDING</sub>
-
-Once `Buildings.png` is uploaded to `gallery/colour/`, its image will be featured in the collection.
 
 ## The gallery standard
 
