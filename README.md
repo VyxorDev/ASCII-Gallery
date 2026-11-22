@@ -77,6 +77,14 @@ From dramatic black-and-white compositions to vivid full-colour pieces.
   </tr>
 </table>
 
+## Next exhibit
+
+**EXHIBIT 004 / BUILDINGS** — A blue-toned, high-contrast architectural cityscape rendered with tightly layered ASCII characters.
+
+<sub>CHROMA · COLOURED ASCII · FULL-RESOLUTION PNG UPLOAD PENDING</sub>
+
+Once `Buildings.png` is uploaded to `gallery/colour/`, its image will be featured in the collection.
+
 ## The gallery standard
 
 - **Visual art only.** Gallery exhibits are rendered **PNG images**, not text files or terminal dumps.
