@@ -15,7 +15,19 @@ This registry tracks each exhibit's original source, creator, and permission sta
 | 005 · Alone | [PNG](./gallery/colour/Alone.png) | Unknown | Not provided | Not verified | **Image published; original photo rights unverified** |
 | 006 · Stormwatch | [PNG](./gallery/colour/Stormwatch.png) | Unknown | Not provided | Not verified | **Image published; original source rights unverified** |
 | 007 · Blue Phantom | [PNG](./gallery/colour/BluePhantom.png) | Unknown | Not provided | Not verified | **Image published; original source rights unverified** |
-| 008 · Ghostwing | `gallery/colour/Ghostwing.png` (upload pending) | Unknown | Not provided | Not verified | **Upload pending; original source rights unverified** |
+| 008 · Task Force 141 | [PNG](./gallery/colour/CallOfDutyTaskForce141.png) | Unknown | Uploaded ASCII-art PNG; original visual reference not provided | Not verified; Call of Duty character/design rights may apply | **Published; source and rights review pending** |
+| 009 · Ghost | [PNG](./gallery/colour/CallOfDutyGhost.png) | Unknown | Uploaded ASCII-art PNG; original visual reference not provided | Not verified; Call of Duty character/design rights may apply | **Published; source and rights review pending** |
+| 010 · Soap | [PNG](./gallery/colour/CallOfDutySoap.png) | Unknown | Uploaded ASCII-art PNG; original visual reference not provided | Not verified; Call of Duty character/design rights may apply | **Published; source and rights review pending** |
+| 011 · Gaz | [PNG](./gallery/colour/CallOfDutyGaz.png) | Unknown | Uploaded ASCII-art PNG; original visual reference not provided | Not verified; Call of Duty character/design rights may apply | **Published; source and rights review pending** |
+| 012 · Captain Price | [PNG](./gallery/colour/CallOfDutyPrice.png) | Unknown | Uploaded ASCII-art PNG; original visual reference not provided | Not verified; Call of Duty character/design rights may apply | **Published; source and rights review pending** |
+
+## Pending uploads
+
+- **Ghostwing** — `gallery/colour/Ghostwing.png` was previously listed as exhibit 008 but is not uploaded. Its creator, source and rights remain unverified.
+
+## Call of Duty fan artwork
+
+Exhibits **008–012** are unofficial Call of Duty-themed ASCII artworks. Franchise character and design rights remain with the respective rights holders. Publication in this gallery is not evidence of affiliation, endorsement, or permission to reuse protected source material.
 
 ## Unsplash-sourced exhibits
 

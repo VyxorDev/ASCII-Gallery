@@ -43,6 +43,32 @@ Images recreated with text, in colour and monochrome.
       <br><strong>07 — Blue Phantom</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="./gallery/colour/CallOfDutyTaskForce141.png"><img src="./gallery/colour/CallOfDutyTaskForce141.png" alt="Call of Duty — Task Force 141" width="75%"></a>
+      <br><strong>08 — Task Force 141</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./gallery/colour/CallOfDutyGhost.png"><img src="./gallery/colour/CallOfDutyGhost.png" alt="Call of Duty — Ghost" width="100%"></a>
+      <br><strong>09 — Ghost</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="./gallery/colour/CallOfDutySoap.png"><img src="./gallery/colour/CallOfDutySoap.png" alt="Call of Duty — Soap" width="100%"></a>
+      <br><strong>10 — Soap</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./gallery/colour/CallOfDutyGaz.png"><img src="./gallery/colour/CallOfDutyGaz.png" alt="Call of Duty — Gaz" width="100%"></a>
+      <br><strong>11 — Gaz</strong>
+    </td>
+    <td align="center" width="50%">
+      <a href="./gallery/colour/CallOfDutyPrice.png"><img src="./gallery/colour/CallOfDutyPrice.png" alt="Call of Duty — Captain Price" width="100%"></a>
+      <br><strong>12 — Captain Price</strong>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
