@@ -74,9 +74,22 @@ gallery/
 
 ## Next in the collection
 
-**EXHIBIT 002 · NEON KITTY** — A luminous, fiery-orange feline portrait rendered in coloured ASCII. The full-resolution PNG will appear here once it is uploaded.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>EXHIBIT 002 / NEON KITTY</h3>
+      <p>A fiery-orange feline portrait drawn from glowing character strokes against deep shadow.</p>
+      <p><sub>CHROMA · COLOURED ASCII · PNG UPLOAD PENDING</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>EXHIBIT 003 / CYBERPUNK CHINESE</h3>
+      <p>Electric blue, violet, and neon reflections turn a nocturnal city scene into character art.</p>
+      <p><sub>CHROMA · COLOURED ASCII · PNG UPLOAD PENDING</sub></p>
+    </td>
+  </tr>
+</table>
 
-<sub>CHROMA · COLOURED ASCII · IMAGE UPLOAD PENDING</sub>
+<sub>Original photo platform reported as <a href="https://unsplash.com/">Unsplash</a> for exhibits 002–003. Individual source pages have not been supplied; see <a href="./SOURCES.md">source rights</a>.</sub>
 
 ---
 
