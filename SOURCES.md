@@ -9,7 +9,14 @@ This registry tracks each exhibit's original source, creator, and permission sta
 | Exhibit | Gallery file | Original creator | Original image source | Source license / permission | Review |
 | --- | --- | --- | --- | --- | --- |
 | 001 · Jet Roars Over Empty Beach | [PNG](./gallery/colour/JetRoarsOverEmptyBeachASCII.png) | Not yet provided | Not yet provided | Not yet verified | **Source review pending** |
-| 002 · Neon Kitty | `gallery/colour/NeonKitty.png` (upload pending) | Not yet provided | Not yet provided | Not yet verified | **Not published; source review pending** |
+| 002 · Neon Kitty | `gallery/colour/NeonKitty.png` (upload pending) | Unknown | [Unsplash](https://unsplash.com/) (reported by uploader; exact photo page unavailable) | Standard Unsplash License if free-catalog photo; individual license unverified | **Awaiting PNG; photo identity not verified** |
+| 003 · Cyberpunk Chinese | `gallery/colour/CyberpunkChinese.png` (upload pending) | Unknown | [Unsplash](https://unsplash.com/) (reported by uploader; exact photo page unavailable) | Standard Unsplash License if free-catalog photo; individual license unverified | **Awaiting PNG; photo identity not verified** |
+
+## Unsplash-sourced exhibits
+
+The uploader reported that exhibits **002** and **003** were converted from images found on Unsplash. The [standard Unsplash License](https://unsplash.com/license) generally permits downloading, editing, and redistributing free-catalog images without mandatory attribution, subject to its terms. Attribution is encouraged when known.
+
+**Important:** This statement does not identify the exact source photo, certify that it was a standard free-catalog rather than Unsplash+ image, or clear any third-party rights. Keep the original photographer's rights intact. Do not claim the original photography was created by VyxorDev.
 
 ## Before new exhibits are published
 
