@@ -27,6 +27,12 @@ Images recreated with text, in colour and monochrome.
       <br><strong>04 — Buildings</strong>
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="./gallery/colour/Alone.png"><img src="./gallery/colour/Alone.png" alt="Alone" width="48%"></a>
+      <br><strong>05 — Alone</strong>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
