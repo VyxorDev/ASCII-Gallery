@@ -59,7 +59,7 @@ From dramatic black-and-white compositions to vivid full-colour pieces.
 
 <div align="center">
 
-<sub>THE PERMANENT COLLECTION · 02 ARTWORKS</sub>
+<sub>THE PERMANENT COLLECTION · 03 ARTWORKS</sub>
 
 ### EXHIBIT 003 / CYBERPUNK CHINESE
 
@@ -81,32 +81,32 @@ From dramatic black-and-white compositions to vivid full-colour pieces.
 
 <table>
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <a href="./gallery/colour/JetRoarsOverEmptyBeachASCII.png">
-        <img src="./gallery/colour/JetRoarsOverEmptyBeachASCII.png" alt="Jet Roars Over Empty Beach — blue-coloured ASCII seascape" width="100%" />
+        <img src="./gallery/colour/JetRoarsOverEmptyBeachASCII.png" alt="Jet Roars Over Empty Beach — blue-toned ASCII beach and aircraft scene" width="100%" />
       </a>
       <br />
-      <strong>001 / Jet Roars Over Empty Beach</strong>
-      <br /><sub>CHROMA · COLOURED ASCII</sub>
+      <strong>001 / Jet Roars Over Empty Beach</strong><br />
+      <sub>CHROMA · COLOURED ASCII</sub>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="./gallery/colour/CyberpunkChinese.png">
-        <img src="./gallery/colour/CyberpunkChinese.png" alt="Cyberpunk Chinese — neon-coloured ASCII scene" width="100%" />
+    <td width="33%" align="center" valign="top">
+      <a href="./gallery/colour/NeonKitty.png">
+        <img src="./gallery/colour/NeonKitty.png" alt="Neon Kitty — fiery orange cat portrait constructed from ASCII characters" width="100%" />
       </a>
       <br />
-      <strong>003 / Cyberpunk Chinese</strong>
-      <br /><sub>CHROMA · COLOURED ASCII</sub>
+      <strong>002 / Neon Kitty</strong><br />
+      <sub>CHROMA · COLOURED ASCII</sub>
+    </td>
+    <td width="34%" align="center" valign="top">
+      <a href="./gallery/colour/CyberpunkChinese.png">
+        <img src="./gallery/colour/CyberpunkChinese.png" alt="Cyberpunk Chinese — neon blue, violet, and magenta ASCII artwork" width="100%" />
+      </a>
+      <br />
+      <strong>003 / Cyberpunk Chinese</strong><br />
+      <sub>CHROMA · COLOURED ASCII</sub>
     </td>
   </tr>
 </table>
-
-## Upcoming
-
-**EXHIBIT 002 / NEON KITTY** — A fiery-orange feline portrait shaped from glowing characters on a dark backdrop.
-
-<sub>CHROMA · COLOURED ASCII · HIGH-RESOLUTION PNG REUPLOAD NEEDED</sub>
-
-Its prior uploaded file was incomplete, so the piece is not displayed until the actual PNG has been uploaded.
 
 ## The gallery standard
 
