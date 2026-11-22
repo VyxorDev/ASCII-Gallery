@@ -117,13 +117,13 @@ ASCII art creates an image through the arrangement of text characters. This coll
 
 </details>
 
-## License
+## Source credits & usage rights
 
-Original artwork published by **VyxorDev**, where VyxorDev owns the relevant rights, is offered under **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+Some exhibits are rendered from images created by other artists or photographers. **Conversion to ASCII does not automatically make a source image free of copyright.**
 
-You may share unmodified images for noncommercial purposes with appropriate credit. Commercial reuse and distribution of adapted versions are not licensed. Third-party rights, if present, remain with their respective owners.
+Each exhibit's origin and usage permissions are tracked in the [artwork source & rights registry](./SOURCES.md). The opening exhibit's original source has **not yet been verified**. Attribution, if needed, will be added after its source is identified.
 
-See [LICENSE](./LICENSE) and the [official Creative Commons terms](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+No blanket reuse license applies to third-party source images or conversions. Original works owned by VyxorDev may be explicitly designated **CC BY-NC-ND 4.0**. See [LICENSE](./LICENSE) for the exact scope.
 
 ---
 
