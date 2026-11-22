@@ -2,7 +2,7 @@
 
 <sub>VYXORDEV PRESENTS · AN INDEPENDENT DIGITAL ART GALLERY</sub>
 
-# ASCII / GALLERY
+# ASCII GALLERY
 
 **Characters are the brush. Pixels are the canvas.**
 
