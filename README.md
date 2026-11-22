@@ -50,25 +50,51 @@ From dramatic black-and-white compositions to vivid, full-colour pieces.
 
 <div align="center">
 
-### Opening exhibit · Jet Roars Over Empty Beach
+### EXHIBIT 001 &nbsp; / &nbsp; JET ROARS OVER EMPTY BEACH
 
-**CHROMA / COLOURED ASCII / EXHIBIT 001**
+<a href="./gallery/colour/JetRoarsOverEmptyBeachASCII.png">
+  <img src="./gallery/colour/JetRoarsOverEmptyBeachASCII.png" alt="Colour ASCII artwork of a jet over a blue-toned beachscape" width="100%" />
+</a>
 
-*A jet roaring across a blue-toned shoreline — rendered entirely in characters.*
+<p><strong>CHROMA &nbsp; · &nbsp; COLOUR ASCII &nbsp; · &nbsp; 001</strong></p>
 
-<sub>Artwork selected · Full-resolution PNG upload pending</sub>
+<em>A jet roars over an empty shoreline — a cinematic scene painted in luminous blues and intricate characters.</em>
+
+<p>
+  <a href="./gallery/colour/JetRoarsOverEmptyBeachASCII.png"><strong>View full-resolution artwork</strong></a>
+  &nbsp; · &nbsp;
+  <a href="./gallery/colour/"><strong>Explore CHROMA</strong></a>
+</p>
 
 </div>
 
-The gallery uses two curated spaces:
+---
+
+<sub><strong>CURRENT EXHIBITION</strong> &nbsp; / &nbsp; 01 artwork on display</sub>
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <a href="./gallery/colour/JetRoarsOverEmptyBeachASCII.png">
+        <img src="./gallery/colour/JetRoarsOverEmptyBeachASCII.png" width="100%" alt="Jet Roars Over Empty Beach — Exhibit 001" />
+      </a>
+      <br />
+      <strong>001 / Jet Roars Over Empty Beach</strong><br />
+      <sub>CHROMA · COLOURED ASCII · PNG</sub>
+    </td>
+  </tr>
+</table>
+
+The collection lives in two curated spaces:
 
 <pre>
 gallery/
-├── monochrome/     ← black-and-white ASCII artwork (.png)
-└── colour/         ← coloured ASCII artwork (.png)
+├── monochrome/     ← monochrome ASCII artwork (.png; opens with first work)
+└── colour/         ← colour ASCII artwork (.png)
+    └── JetRoarsOverEmptyBeachASCII.png
 </pre>
 
-<sub>Folders will appear when their first PNG artwork is committed.</sub>
+<sub>Monochrome will become a folder when its first piece is published.</sub>
 
 ## The gallery standard
 
@@ -80,7 +106,7 @@ gallery/
 
 ## Viewing guide
 
-Open any artwork to inspect it at full resolution. For the best experience, use GitHub's full image view, particularly for highly detailed pieces. The README will feature artwork thumbnails as soon as pieces are added.
+Open any artwork to inspect it at full resolution. For the best experience, use GitHub's full image view, particularly for highly detailed pieces. Artwork is featured above as a full-width preview. Select the image to view it at full resolution.
 
 <details>
 <summary><strong>What is character-built art?</strong></summary>
